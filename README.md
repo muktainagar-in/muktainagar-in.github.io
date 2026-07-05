@@ -34,7 +34,7 @@ This repository serves as a public archive of documents, RTI applications, gover
 | Dimensions | 13.76 m × 13.50 m |
 | Length | 45.14 feet |
 | Width | 44.29 feet |
-| Current Available Area | Approximately 500 sq. feet |
+| Current Available Area | Approximately ~800-1000 sq. feet |
 | Owner | Retired Ministry of Defence Employee Establishment|
 | Age | 70 Years |
 
